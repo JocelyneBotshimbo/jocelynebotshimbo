@@ -10,6 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JocelyneBotshimbo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JocelyneBotshimbo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
+## Languages-Frameworks-Tools 
+
 <div style="display: inline_block"><br>
   
   <img align= "center" alt="Joce-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/> 
@@ -26,6 +29,8 @@
   <img align= "center" alt="Joce-GCP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/>
 
 </div>
+
+## My Contributions
           
 ![snake gif](https://github.com/JocelyneBotshimbo/jocelynebotshimbo/blob/output/github-contribution-grid-snake.svg)
            
