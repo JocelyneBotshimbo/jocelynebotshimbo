@@ -23,6 +23,8 @@
   <img align= "center" alt="Joce-kubernetes" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
   <img align= "center" alt="Joce-grafana" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-plain-wordmark.svg"/>
   <img align= "center" alt="Joce-GCP" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"/>
+  <img align= "center" alt="Joce-GCP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/>
+
 </div>
           
 ![snake gif](https://github.com/JocelyneBotshimbo/jocelynebotshimbo/blob/output/github-contribution-grid-snake.svg)
