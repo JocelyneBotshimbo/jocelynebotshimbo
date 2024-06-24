@@ -32,9 +32,7 @@
 
 ## My Contributions
           
-![snake animation](https://github.com/JocelyneBotshimbo/jocelynebotshimbo/blob/output/github-contribution-grid-snake2.svg)
-           
-       
+![Snake animation](https://raw.githubusercontent.com/JocelyneBotshimbo/JocelyneBotshimbo/output/github-contribution-grid-snake-dark.svg) 
           
           
 
